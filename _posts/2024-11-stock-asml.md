@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "ASML Nov 2024"
-date: 2024-11-22 19:15:00 -0000
+date: 2024-11-23 19:15:00 -0000
 ---
 
 Recent options activity for ASML Holding has shown significant interest from investors, with a noticeable bearish stance. Here's a summary of the recent activity:
